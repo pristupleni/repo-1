@@ -1,0 +1,43 @@
+p:first-of-type{
+    background-color: red;
+}
+div {
+    background-color: blue;
+}
+h1 {
+    font-size: 24px;
+}
+img {
+    border: 2px solid black
+}
+div {
+    text-align: center;
+    margin: 0 auto
+}
+span {
+    font-style: italic;
+}
+button {
+    padding: 10px 20px;
+}
+div {
+    margin: 15px;
+}
+p {
+    font-family: Arial,sans-serif;
+}
+strong {
+    font-weight: bold;
+}
+a:hover {
+    background-color: lightgray;
+    text-decoration: none;
+    transition: background-color 0.3s ease;
+}
+div.rounded-corners {
+    border-radius: 15px;
+}
+img {
+    max-width: 100%;
+    height: auto;
+}
